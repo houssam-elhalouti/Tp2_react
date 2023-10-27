@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tp1_react/static/css/main.49f90a22.css",
+    "main.js": "/Tp1_react/static/js/main.fcfa764e.js",
+    "index.html": "/Tp1_react/index.html",
+    "main.49f90a22.css.map": "/Tp1_react/static/css/main.49f90a22.css.map",
+    "main.fcfa764e.js.map": "/Tp1_react/static/js/main.fcfa764e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f90a22.css",
+    "static/js/main.fcfa764e.js"
+  ]
+}
